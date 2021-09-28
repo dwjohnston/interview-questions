@@ -119,3 +119,22 @@ Bonus points, but it's ok to miss, is that padding and margin behaves differentl
 **Answer:** Takes the element out of flow and positions itself relative to the boundings of its next relatively or absolutely positioned parent. 
 
 You tend to use it if you need to create overlapping elements. 
+
+## Node.js Questions 
+
+### 1. What are the two types of API functions in Node.js? 
+
+**Purpose:** To check understanding of Node.js skills 
+
+**Answer:** Node.js has two types of API functions
+
+Asynchronous, Non-blocking functions
+Synchronous, Blocking functions
+
+## Software Engineer Questions 
+
+### 1. What are design patterns and what is your fav one? 
+
+**Purpose:** To check understanding of software design patterns
+
+**Answer:** Singleton, Dependency Injections, Abstract, Factory Model ,... 
