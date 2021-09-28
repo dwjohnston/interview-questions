@@ -131,6 +131,19 @@ You tend to use it if you need to create overlapping elements.
 Asynchronous, Non-blocking functions
 Synchronous, Blocking functions
 
+### 2. What are some of the most popular modules of Node.js?
+
+**Purpose:** To understand if Candidate is familiar with different modules and ever worked on Node.js 
+
+**Answer:** Every developer must be equipped with the latest information and updates on software libraries as they make the task of programming very easy. The most popular and useful modules of Node.js are-
+
+Express
+Socket.io
+Body-parser
+Cora
+Passport
+Multer
+
 ## Software Engineer Questions 
 
 ### 1. What are design patterns and what is your fav one? 
