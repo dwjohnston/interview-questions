@@ -1,1 +1,3 @@
 PRs welcome!
+
+Criticism welcome!
