@@ -24,6 +24,15 @@ This serves a couple of purposes:
 
 - It helps calibrate and weight the questions you ask them. For example, it might be quite common for someone to have listed 'React/CSS/Express/Mongo' as their experience, but actually they have very little experience with Mongo - they were more of a frontend developer. You can still ask them a Mongo related question, and it's a great sign if they can answer it, but you're not discounting them too much if they can't. 
 
+
+### 2. Say we had a magic wand, in what context (tooling, processes, people around you) would you be happiest, and do your most effective work? 
+
+## Process Questions 
+
+### 1. You are stuck with an error or some code that isn't working - what is your approach to solving it? 
+
+
+
 ## JavaScript questions 
 
 ### 1. What does this code output? (`const` keyword)
@@ -65,7 +74,7 @@ const a = {
 
 const b = a; 
 
-b.a = "hello";. 
+b.a = "hello";
 
 console.log(a);
 console.log(b); 
