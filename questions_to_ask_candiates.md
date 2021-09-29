@@ -1,6 +1,6 @@
 ## Philosophy around conducting interviews
 
-The questions here are intended for generalist JavaScript developers, whether junior to tech lead. They're intended for someone you're hiring for experience with a specific technology. 
+The questions here are intended for generalist JavaScript developers, whether junior to tech lead. They're not intended for someone you're hiring for experience with a specific technology. 
 
 In my opinion, for a general developer position, it is more important to assess a candidate according to _their_ strengths, rather than 'What do we need for this position'. 
 
