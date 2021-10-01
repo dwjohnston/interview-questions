@@ -45,8 +45,22 @@ a = "b";
 
 **Answer:** It throws an error at runtime, because the `const` keyword prevents variable reassignment. 
 
+### 2. What does this code output? (object mutation) 
 
-### 2. What does this code output? (object equality) 
+```javascript 
+const a = {
+    a: 1
+}; 
+
+a.a = 2; 
+
+console.log(a); 
+```
+
+**Purpose:** This question should be asked in conjunction with question 1. It basically tests that they know what the `const` keyword is doing - that it isn't preventing object mutation. 
+
+**Answer:**  It prints `{a: 2}`. The const keyword does not prevent object mutation. 
+### 3. What does this code output? (object equality) 
 
 ```javascript 
 const a = {
@@ -65,7 +79,10 @@ console.log(a===b);
 **Answer:** `false` - a and b are two different objects, that happen to have the same data. 
 
 
-### 3. What does this code output? (object mutation) 
+
+
+
+### 4. What does this code output? (object references and mutation) 
 
 ```javascript 
 const a = {
