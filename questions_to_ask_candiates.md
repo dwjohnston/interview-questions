@@ -101,6 +101,66 @@ console.log(b);
 
 **Answer:** They both print `{a: "hello"}` - as `a` and `b` point to the same object. 
 
+## TypeScript Questions 
+
+
+### 1. Why does this code have an error? 
+
+```typescript
+function getRandomValue() : number | string {
+    if (Math.random() > 0.5) {
+        return Math.random(); 
+    }
+    else {
+        return `${Math.random()}`; 
+    }
+}
+
+function myFunction(value: number) {
+
+}
+
+const value = getRandomValue(); 
+myFunction(value);
+```
+
+**Purpose** Tests basic knowledge of TypeScript
+
+**Answer** Because value can be a number _or_ a string, and the `myFunction` function _only_ wants a number. 
+
+
+
+### 2. Add arguments to the function call such that there are no type errors
+
+```typescript
+type SomeThing<T> = {
+    value: T; 
+    label: string; 
+}
+
+
+function usesSomeThing<T>(thing: SomeThing<T>, value: T) {
+    
+}
+
+// Add arguments to the function call to avoid type errors
+usesSomething(); 
+```
+
+**Purpose** Basic TypeScript question - checks if they understand generics syntax. 
+
+**Answer:** 
+
+```typescript
+usesSomeThing({
+    value: 9, 
+    label: "hello"
+}, 11); 
+```
+
+For example. 
+
+
 
 
 ## CSS Questions 

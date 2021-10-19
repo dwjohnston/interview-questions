@@ -71,3 +71,7 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 **Purpose** - The answer to this question likely won't affect whether you want to work for the company or not. But it's good for you to know up front what the process is.
 
+## What hardware do you use/operating system/tools
+
+**Purpose** - This is more important to ask if interviewing for a large enterprise or government department. If it matters to you, you might not want to work at a place where you're stuck using a crappy computer. 
+
