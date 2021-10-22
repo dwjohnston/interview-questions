@@ -86,12 +86,12 @@ console.log(a===b);
 
 ```javascript 
 const a = {
-    a: 1
+    value: 1
 }; 
 
 const b = a; 
 
-b.a = "hello";
+b.value = "hello";
 
 console.log(a);
 console.log(b); 
