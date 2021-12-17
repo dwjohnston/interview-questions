@@ -59,6 +59,11 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 **Purpose** Gives you a picture of what they're really looking for. Are they looking for someone to take responsibility for things and propose new innovations? Or are they looking for someone to follow directions? 
 
+## How does this job compare to your previous role? 
+
+**Person to ask** - A developer
+
+**Purpose** - I really like this question. It's basically asking 'What's it like to work here?' with different framing. By asking them to compare it with a previous role, it's going to highlight various aspects of current role, that someone might not have otherwise thought about. 
 
 ## What does the performance review process look like?
 
