@@ -246,3 +246,13 @@ I'm clearly a bit opinionated here, but I think that GraphQL is overused, and ha
 |                                                                                                                                                           |     |                                                                                                                                                                                                                                                                                                                                                  | GraphQL queries are not effectively serverside cached?   Eg. You request {name, age} for student with ID 123, this will be cached differently as {name} for student with ID 123.   |
 |                                                                                                                                                           |     |                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                    |
 
+
+## Feedback Questions
+
+### What questions did we miss, that we should have asked? 
+
+**Ask if:** It's a more senior/leadership focused role and/or they seem like a confident candidate who would enjoy answering it.  
+
+**Purpose:** This is a fun question for the candidate, and it can help improve your interview process. 
+
+For a (good) senior developer I would expect to see them offering opinions on interview process and so a disinterest in the question may be a red flag. 
