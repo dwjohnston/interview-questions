@@ -20,7 +20,7 @@ You can use the experience listed on their CV to prompt them ('OK, it says you h
 
 This serves a couple of purposes: 
 
-- Firstly, it gives you a better picture of who they are as a developer. Candidates have the incentive to list every technology they've ever touched, even if they're particularly comfortable with that technology, because otherwise the recruiter/hiring manager may pass their CV over. 
+- Firstly, it gives you a better picture of who they are as a developer. Candidates have the incentive to list every technology they've ever touched, even if they're not particularly comfortable with that technology, because otherwise the recruiter/hiring manager may pass their CV over.
 
 - It helps calibrate and weight the questions you ask them. For example, it might be quite common for someone to have listed 'React/CSS/Express/Mongo' as their experience, but actually they have very little experience with Mongo - they were more of a frontend developer. You can still ask them a Mongo related question, and it's a great sign if they can answer it, but you're not discounting them too much if they can't. 
 
