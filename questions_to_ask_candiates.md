@@ -27,6 +27,8 @@ This serves a couple of purposes:
 
 ### 2. Say we had a magic wand, in what context (tooling, processes, people around you) would you be happiest, and do your most effective work? 
 
+This is a good question perhaps for the end of the interview, or just before you geting into the technical stuff. The purpose of it is to get a picture of what _they want_ in a role, and you can place them accordingly. 
+
 ## Process Questions 
 
 ### 1. You are stuck with an error or some code that isn't working - what is your approach to solving it? 
