@@ -163,6 +163,66 @@ usesSomeThing({
 For example. 
 
 
+### 3a. How would you make the properties of a type optional? 
+
+Given this code: 
+
+```typescript
+type Foo = {
+    a: string;
+    b: number; 
+    c: string; 
+}
+
+function usesFoo(foo: Foo) {
+
+}
+
+usesFoo({a: "hello"});
+usesFoo({a: "hello", b: 99});
+usesFoo({b: 11}); 
+usesFoo({c: "hello"}); 
+
+
+```
+
+How would you change the signature of the function `usesFoo` such that there are no type errors in our example usage? 
+
+**Answer** 
+
+Use the `Partial` utiltiy type. 
+
+```diff
+-function usesFoo(foo: Foo) {
++function usesFoo(foo: Partial<Foo>{
+}
+```
+
+The `Partial` utility type makes all properties optional. 
+
+### 3b. How would you implement a Partial utility type from scratch? 
+
+**Ask if:** They say they have expert TypeScript knowledge/the role requires expert TypeScript knowledge. 
+
+**Answer** 
+
+```typescript 
+type OurPartial<T> = {
+   [K in keyof T]? : T[K]; 
+}
+```
+
+Explanation: 
+
+`OurPartial<T>` : We introduce a generic parameter `T`, which is going to be whatever type we want to have optional properties. 
+
+`[K in keyof T]?` We derive a second type `K` which is a union list of of the keys of the the type `T`. We use this type in a *mapped type*, adding the `?` to make them optional. 
+
+` T[K]` We use an `index type` to make the existing value of the property match the original typings property value. 
+
+
+
+
 
 
 ## CSS Questions 
