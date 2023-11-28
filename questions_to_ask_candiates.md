@@ -218,7 +218,7 @@ Explanation:
 
 `[K in keyof T]?` We derive a second type `K` which is a union list of of the keys of the the type `T`. We use this type in a *mapped type*, adding the `?` to make them optional. 
 
-` T[K]` We use an `index type` to make the existing value of the property match the original typings property value. 
+` T[K]` We use an *index type* to make the existing value of the property match the original typings property value. 
 
 
 
