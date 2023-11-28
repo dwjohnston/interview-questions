@@ -80,3 +80,9 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 **Purpose** - This is more important to ask if interviewing for a large enterprise or government department. If it matters to you, you might not want to work at a place where you're stuck using a crappy computer. 
 
+
+## Is the company profitable? 
+
+**Ask if** it's a small company or start up. 
+
+Unprofitable start ups are going to be pivoting a lot more as they try to find what works. This might be fine for you, but it's good to know what you're getting into.
