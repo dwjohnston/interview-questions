@@ -55,9 +55,17 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 ## What does a successful candidate look like? 
 
+**Alternative phrasing** Six months after hiring a candidate, how would you know you had made a good hire? 
+
 **Person to ask** - Engineering manager 
 
 **Purpose** Gives you a picture of what they're really looking for. Are they looking for someone to take responsibility for things and propose new innovations? Or are they looking for someone to follow directions? 
+
+## How long does the interview process take?
+
+**Person to ask** Engineering or hiring manager
+
+**Purpose** If you've got other roles in the process too, it can be helpful to know what timing might look like. 
 
 ## How does this job compare to your previous role? 
 
