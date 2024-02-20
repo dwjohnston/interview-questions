@@ -73,6 +73,9 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 **Purpose** - I really like this question. It's basically asking 'What's it like to work here?' with different framing. By asking them to compare it with a previous role, it's going to highlight various aspects of current role, that someone might not have otherwise thought about. 
 
+## What are the expectations for working the office? What are the norms? 
+
+
 ## What does the performance review process look like?
 
 **Person to ask** - Engineering manager, HR representative. 
