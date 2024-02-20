@@ -61,11 +61,11 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 **Purpose** Gives you a picture of what they're really looking for. Are they looking for someone to take responsibility for things and propose new innovations? Or are they looking for someone to follow directions? 
 
-## How long does the interview process take?
+## How long does the interview process take? When can I expect to recieve a decision on my application? 
 
 **Person to ask** Engineering or hiring manager
 
-**Purpose** If you've got other roles in the process too, it can be helpful to know what timing might look like. 
+**Purpose** If you've got other roles in the process too, it can be helpful to know what timing might look like. Also, by asking them to give a date it helps you in the scenario that they're 'keeping you warm' while they've got other candidates they want to investigate. They might still string you along, but at least you have a hint at what's happening. 
 
 ## How does this job compare to your previous role? 
 
