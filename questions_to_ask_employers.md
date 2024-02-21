@@ -75,6 +75,15 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 ## What are the expectations for working the office? What are the norms? 
 
+**Person to ask** Hiring manager, Engineering manager
+
+**Purpose** It's a good thing to get clear. 
+
+## What personal development programs exist in the organisation? 10% time, paid courses, etc. 
+
+**Person to ask** Hiring manager, Engineering manager
+
+**Purpose** Demonstrates inclination to continuous improvement. 
 
 ## What does the performance review process look like?
 
@@ -97,3 +106,13 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 **Ask if** it's a small company or start up. 
 
 Unprofitable start ups are going to be pivoting a lot more as they try to find what works. This might be fine for you, but it's good to know what you're getting into.
+
+## Can I have my feedback on my application? 
+
+**Ask if** you were unsuccessful after an interview. 
+
+**Ask especially if** the company values statement mentions 'giving feedback', 'honest conversations' etc. 
+
+It can be really helpful to find out what went wrong. 
+
+
