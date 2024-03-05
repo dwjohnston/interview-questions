@@ -107,6 +107,12 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 
 Unprofitable start ups are going to be pivoting a lot more as they try to find what works. This might be fine for you, but it's good to know what you're getting into.
 
+## Can you tell me about a time you've had to manage a difficult team member? 
+
+**Ask if** they've asked you a similar question. 
+
+I'm curious what their response will be. 
+
 ## Can I have my feedback on my application? 
 
 **Ask if** you were unsuccessful after an interview. 
