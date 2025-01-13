@@ -45,6 +45,7 @@ Only applies for certain products.
 
 If they're not, it demonstrates that the product doesn't work very well. 
 
+
 ## What do you like the least about working here?
 
 A more diplomatic phrasing would be - 'What are the difficult parts of the code that you have trouble with'. 
@@ -60,6 +61,14 @@ A more diplomatic phrasing would be - 'What are the difficult parts of the code 
 **Person to ask** - Engineering manager 
 
 **Purpose** Gives you a picture of what they're really looking for. Are they looking for someone to take responsibility for things and propose new innovations? Or are they looking for someone to follow directions? 
+
+## What's the most challenging thing about this role? 
+
+I love this question for two reasons: 
+
+1. It's perhaps a more effective way of asking 'what sucks about working here'
+2. If you ask it early on - then you can then tailor your responses to shine for those things. 
+
 
 ## How long does the interview process take? When can I expect to recieve a decision on my application? 
 
